@@ -1,17 +1,14 @@
 public class Rectangle {
     double length;
     double width;
-    double area;
-        public double calculateAreaOfRectangle(double length, double width) {
-      double area = length * width;
-      return area;
+
+    public double calculateArea(double length, double width){
+        double Area = length * width;
+        return Area;
     }
-    public static void main(String[]args){
-            Rectangle rectangle = new Rectangle();
-            double AreaOfRectangle = rectangle.calculateAreaOfRectangle(9,5);
-        System.out.println("Area of Rectangle is " + AreaOfRectangle);
+    public double calculatePerimeter(double length, double width){
+        double Peri = 2*(length + width);
+        return Peri;
     }
 
-
-
-    }
+}
