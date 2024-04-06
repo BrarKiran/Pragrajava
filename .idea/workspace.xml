@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780ca00b-6dc9-4009-81ac-f3d7f4c07336" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Circumference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RectPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/RectPerimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Rectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="780ca00b-6dc9-4009-81ac-f3d7f4c07336" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,36 +31,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Alphabet.executor": "Run",
-    "Application.AnimalMain.executor": "Run",
-    "Application.BooksMain.executor": "Run",
-    "Application.CircleArea.executor": "Run",
-    "Application.Circumference.executor": "Run",
-    "Application.DoWhile.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MonthClass.executor": "Run",
-    "Application.NaturalNumbers.executor": "Run",
-    "Application.Numbers.executor": "Run",
-    "Application.RectPerimeter.executor": "Run",
-    "Application.Rectangle.executor": "Run",
-    "Application.RectangleMain.executor": "Run",
-    "Application.SquareArea.executor": "Run",
-    "Application.SumOfNumbers.executor": "Run",
-    "Application.Tables.executor": "Run",
-    "Application.TrafficLight.executor": "Run",
-    "Application.Vote.executor": "Run",
-    "Application.WeekClass.executor": "Run",
-    "Application.sumofNumbers.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BooksMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circumference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MonthClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NaturalNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RectPerimeter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RectangleMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumofNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.BooksMain">
     <configuration name="AnimalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnimalMain" />
