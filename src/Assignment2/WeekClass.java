@@ -4,15 +4,16 @@ import java.util.Scanner;
 public class WeekClass {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-System.out.println("Enter input day");
-int input = sc.nextInt();
-switch (input){
-    case 1:    {
-        System.out.println("Its a weekday");
+       System.out.println("Enter input day");
+       String input = sc.next();
+
+      switch (input){
+       case "Day":    {
+        System.out.println("Its a Monday");
         break;
+
     }
 }
 
     }
 }
-// NEED HELP//

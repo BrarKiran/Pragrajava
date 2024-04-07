@@ -1,4 +1,17 @@
-public class RectangleMain {
+package Constructors;
+
+public class Rectangle {
+    double length;
+    double width;
+
+    public double calculateArea(double length, double width){
+        double Area = length * width;
+        return Area;
+    }
+    public double calculatePerimeter(double length, double width){
+        double Peri = 2*(length + width);
+        return Peri;
+    }
     public static void main(String[] args) {
         Rectangle rect = new Rectangle();
         double kb =rect.calculateArea(3,4);
@@ -10,4 +23,4 @@ public class RectangleMain {
         System.out.println("Peri is " + rect.calculatePerimeter(2,4));
 
     }
-    }
+}
